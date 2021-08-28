@@ -1,0 +1,3 @@
+rootProject.name = 'MixinDetector'
+
+include 'mixindetector-common', 'mixindetector-bukkit', 'mixindetector-sponge', 'mixindetector-forge', 'mixindetector-fabric'

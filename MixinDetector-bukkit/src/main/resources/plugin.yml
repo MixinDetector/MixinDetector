@@ -1,0 +1,7 @@
+name: MixinDetector
+version: @version@
+main: org.mixendetector.bukkitMixinDetector
+api-version: 1.15
+load: STARTUP
+authors: [mosemister]
+description: Finds all plugins that use mixins
